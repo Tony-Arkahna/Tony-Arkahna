@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align = "center"> Hello there, my name is Tony Woods </h1>
+  
+  ## **Vital Information You'd Die To Know** 
+- 💻 I work with a bunch of folks at 🧙‍♂️[arkahna.com.io](https://arkahna.com.io). 
+- 📃 They really like introduction pages.
+- 🌱 I’m currently learning GitHub
+- 🔭 I’m currently working on telling believable lies on GitHub profiles.
+- 😀 <- This face is smiling, and I can correctly identify that. 
+- 💬 Ask me to teach you how. 
+- ⚡ Fun fact: Some people associate lightning-bolts with fun facts - there's actually no firm connection!
+- ⛸ Have you seen my other ice skate?
 
-<!--
-**Tony-Arkahna/Tony-Arkahna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Stats, Fitting Tribute To My Glory**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tony-Arkahna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tony-Arkahna&show_icons=true&theme=dracula)
